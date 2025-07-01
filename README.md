@@ -1,4 +1,7 @@
 AI-Powered Blockchain Voting System
+
+
+
 This project pioneers a secure, transparent, and tamper-proof voting platform by integrating Blockchain technology with Artificial Intelligence (AI) for enhanced biometric authentication. Designed to eliminate credential-based access, this system ensures the integrity of elections through advanced smart contracts and real-time biometric verification.
 Features
  * Tamper-Proof Voting: Leverages blockchain to ensure every vote is recorded immutably and cannot be altered or removed.
