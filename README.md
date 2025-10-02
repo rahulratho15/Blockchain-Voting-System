@@ -32,7 +32,20 @@ Prerequisites
  * Node.js & npm: For JavaScript dependencies.
  * Python 3.x: For the Flask backend.
  * Arduino IDE: For uploading C# code to Arduino Uno.
- * Hardware: Arduino Uno, compatible fingerprint sensor, and a camera module for facial recognition.
+ * Hardware:
+
+Microcontroller Board: 1 x Arduino Uno
+This is the blue board that acts as the brain of the project, running the code to interact with the sensor.
+Biometric Sensor: 1 x Optical Fingerprint Scanner Module
+This is the black square device that captures the fingerprint image for verification. It's a common module, likely an R307 or a similar model.
+Cables and Wires:
+1 x USB Type-A to Type-B Cable: The blue cable connecting the Arduino Uno to a computer for power and communication.
+4 x Male-to-Female Jumper Wires: These connect the fingerprint sensor's pins to the Arduino's header pins. The colors visible are:
+1 x White
+1 x Purple
+1 x Blue
+1 x Black
+   
  * MetaMask (or similar wallet): Configured for the Sepolia testnet to interact with smart contracts.
 Installation
  * Clone the repository:
