@@ -135,4 +135,5 @@ We welcome contributions to this project! If you'd like to contribute, please fo
 License
 This project is licensed under the MIT License.
 Contact
-For any inquiries or questions, please contact [Your Name/Email Address/LinkedIn Profile Link].
+For any inquiries or questions, please contact :
+rahulrathnavel15@gmail.com
